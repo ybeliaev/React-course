@@ -1,5 +1,5 @@
 # React-course
-
+http://js.dmitrylavrik.ru/react/?utm=site-footer
 1. 
   *  Простая сборка с webpack
   *  Основы компонентного подхода
