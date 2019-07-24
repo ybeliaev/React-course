@@ -34,6 +34,7 @@ http://js.dmitrylavrik.ru/react/?utm=site-footer
 * part 2
 ![alt text](https://github.com/ybeliaev/React-course/blob/master/1/132_Counter_class_prprerty_decl.png)
 ![alt text](https://github.com/ybeliaev/React-course/blob/master/1/133_Counter_class_prprerty_decl.png)
+![alt text](https://github.com/ybeliaev/React-course/blob/master/1/133-1_Counter_class_prprerty_decl.png)
 ![alt text](https://github.com/ybeliaev/React-course/blob/master/1/134_Counter_class_prprerty_decl.png)
 ![alt text](https://github.com/ybeliaev/React-course/blob/master/1/135_Counter_class_prprerty_decl.png)
 ![alt text](https://github.com/ybeliaev/React-course/blob/master/1/136_Counter_class_prprerty_decl.png)
